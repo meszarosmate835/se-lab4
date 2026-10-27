@@ -1,0 +1,4 @@
+# Only primary all
+GT4500,1,0,0,0
+TORPEDO,ALL
+TORPEDO,ALL

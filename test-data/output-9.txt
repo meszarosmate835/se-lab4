@@ -1,0 +1,5 @@
+# Primary fails secondary succeeds all
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL

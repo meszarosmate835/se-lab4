@@ -1,0 +1,4 @@
+# Both fail all
+SUCCESS
+FAIL
+FAIL

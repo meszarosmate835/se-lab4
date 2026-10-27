@@ -1,0 +1,7 @@
+# All does not affect single turn
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
+FAIL

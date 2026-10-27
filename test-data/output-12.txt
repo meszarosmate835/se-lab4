@@ -1,0 +1,5 @@
+# Secondary failure single no fallback
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS

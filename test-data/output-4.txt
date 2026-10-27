@@ -1,0 +1,3 @@
+# Both empty single
+SUCCESS
+FAIL

@@ -1,0 +1,4 @@
+# Primary failure single no fallback
+SUCCESS
+FAIL
+SUCCESS

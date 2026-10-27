@@ -1,0 +1,5 @@
+# Primary fails secondary succeeds all
+GT4500,2,1,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
