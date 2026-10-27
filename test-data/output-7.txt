@@ -1,0 +1,4 @@
+# Only secondary all
+SUCCESS
+SUCCESS
+FAIL

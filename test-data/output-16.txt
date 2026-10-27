@@ -1,0 +1,6 @@
+# Reinitialization resets turn
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
